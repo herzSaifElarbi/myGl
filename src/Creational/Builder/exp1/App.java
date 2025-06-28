@@ -6,7 +6,5 @@ public class App {
         director.constructCar();
         director.setBuilder(new MotocycleBuilder());
         director.constructMoto();
-        
-
     }
 }
