@@ -1,6 +1,11 @@
 # Desgin Pattern:
 
 ## Behavioral:
+
+### State:
+##### Exemple 1:
+Traffic Ligth changing we have 3 states (red, orange, green)
+
 ### Chain of responsability:
 #### Exemple 1:
 we have 3 handlers and each has responsability of handling range number.
@@ -16,11 +21,11 @@ This is a weather station notifying users if state changes it notify them, we us
 #### Exemple 1:
 we have text to render but it can be adjusted by bold, italic
 
-## Constructural:
-### State:
-##### Exemple 1:
-Traffic Ligth changing we have 3 states (red, orange, green)
+## Creational:
 
+### Singleton:
+#### Exemple 1:
+We try to create a unique logger and test if 2 created are the same.
 
 ### Builder:
 ##### Exemple 1:
