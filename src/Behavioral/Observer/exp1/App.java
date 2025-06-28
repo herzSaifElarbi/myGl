@@ -1,7 +1,6 @@
 package Behavioral.Observer.exp1;
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
         WeatherStation ws = new WeatherStation(30);
         User u1 = new User("Saif");
         User u2 = new User("Secure");
