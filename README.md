@@ -7,6 +7,10 @@ This is a weather station notifying users if state changes it notify them, we us
 ### Decorator:
 #### Exemple 1:
 we have text to render but it can be adjusted by bold, italic
+## Constructural:
+### Builder:
+##### Exemple 1:
+we make vehicules cars, motocycles same carracteristiques but different values.
 ## Full Exemples:
 #### Exemple1(Observer + Strategy):
 A news agency notify users via sms, emails.
