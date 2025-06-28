@@ -1,6 +1,10 @@
 # Desgin Pattern:
 
 ## Behavioral:
+### Chain of responsability:
+#### Exemple 1:
+we have 3 handlers and each has responsability of handling range number.
+
 
 ### Observer:
 #### Exemple 1:
