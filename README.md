@@ -1,3 +1,38 @@
+# Software Design Priciples:
+### DRY: Don't Reapeat Yourself:
+Avoid duplication logic.
+
+### COI: Composition Over Inheritance:
+Prefer unsing composition over complexe inheritance trees
+
+### POLA: Principle Of least Astonishement:
+Code should behave in a simple and intuitive way(codes implemented should do what their name is saying nothing weird)
+
+### KISS: Keep It Simple Stupid:
+write simple and understandaple code avoid complexity
+
+### YAGNI: You aren't Gonna Need It:
+Don't implement something until it's accutually needed
+
+## SOLID:
+
+### S: Single Responsability Principle:
+a class has one and only one reason to change
+
+### O: Open Closed Principle:
+a sotfware is open for extension closed for modification
+
+### L: Liskov sibstitution Principle:
+Objcts of superclass should be replacebale with objects of subclass
+
+### I: Interface segregation Priciple:
+Don't force a class to implement unused interface
+
+### D: Dependency Inversion Principle:
+Depend on abstraction not concrete class
+
+
+
 # Desgin Pattern:
 
 ## Behavioral:
